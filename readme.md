@@ -4,5 +4,5 @@
 * Funcionalidade 2
 * Funcionalidade 3
 * Editado marge
-*
 * editado pelo Luanderson
+* 
